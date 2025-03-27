@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a Software Developer, I strive to specialize in Java & Spring Boot within 3 years, improving my skills and gaining hands-on experience, aiming to grow into a Senior Backend Developer
+As a Software Developer, I strive to specialize in Java & Spring Boot within 3 years, improving my skills and gaining hands-on experience, aiming to grow into a professional Backend Developer
 
 
 ## 🌐 Socials:
@@ -13,9 +13,6 @@ As a Software Developer, I strive to specialize in Java & Spring Boot within 3 y
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=QuanTA92&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=QuanTA92&icon=0&color=0)](https://visitcount.itsvg.in)
