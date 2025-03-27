@@ -12,7 +12,10 @@ As a Software Developer, I strive to specialize in Java & Spring Boot within 3 y
 ![](https://github-profile-trophy.vercel.app/?username=QuanTA92&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=QuanTA92&icon=0&color=0)](https://visitcount.itsvg.in)
